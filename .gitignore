@@ -1,0 +1,9 @@
+XvnetMvc/packages/
+XvnetMvc/.vs/
+XvnetMvc/WebApp/bin/
+XvnetMvc/Business/obj/
+XvnetMvc/Common/obj/
+XvnetMvc/Dao/obj/
+XvnetMvc/Dto/obj/
+XvnetMvc/WebApi/bin/
+XvnetMvc/WebApi/obj/
